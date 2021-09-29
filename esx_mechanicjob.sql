@@ -1,3 +1,4 @@
+/* or `es_extended`; /*
 USE `essentialmode`;
 
 INSERT INTO `addon_account` (name, label, shared) VALUES
